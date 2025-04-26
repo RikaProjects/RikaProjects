@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Rika!</h1>
 
-<!--
-**RikaProjects/RikaProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>A passionate learner exploring the world of Web Development 🌱</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 A Little Bit About Me
+
+- 🔭 Currently learning Front-End and Back-End development
+- 🧠 Growing my skills in **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**
+- 🎯 Dreaming to build useful and beautiful digital products
+- 🌟 Always curious, always coding
+
+---
+
+## 🔧 Tools I'm Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-F16529?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+---
+
+## 📈 My Learning Journey
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RikaProjects&layout=compact&theme=merko)
+
+---
+
+## 🗺️ What's Next?
+
+- 📚 Keep learning Laravel and JavaScript frameworks
+- 🖥️ Build real-world web projects
+- 🚀 Share my projects here on GitHub
+
+---
+
+<p align="center">
+  💬 Let's connect and grow together! 💬
+</p>
