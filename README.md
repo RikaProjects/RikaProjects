@@ -8,8 +8,8 @@
 
 ## 📖 A Little Bit About Me
 
-- 🔭 Currently learning Front-End and Back-End development
-- 🧠 Growing my skills in **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**
+- 🔭 Currently learning Front-End, Back-End development,and Machine Learning
+- 🧠 Growing my skills in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**,  and **Python*
 - 🎯 Dreaming to build useful and beautiful digital products
 - 🌟 Always curious, always coding
 
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ---
