@@ -8,8 +8,8 @@
 
 ## 📖 A Little Bit About Me
 
-- 🔭 Currently learning Front-End, Back-End development,and Machine Learning
-- 🧠 Growing my skills in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**,  and **Python**
+- 🔭 Currently learning Front-End, Back-End development, and Machine Learning
+- 🧠 Growing my skills in **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, and **Python**
 - 🎯 Dreaming to build useful and beautiful digital products
 - 🌟 Always curious, always coding
 
