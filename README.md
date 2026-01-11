@@ -30,7 +30,7 @@
 
 ## 📈 My Learning Journey
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RikaProjects&layout=compact&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RikaProjects&layout=compact&theme=merko&hide=jupyter%20notebook&cache_seconds=1800)
 
 ---
 
