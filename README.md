@@ -16,7 +16,7 @@
 
 🎓 Final-year **D3 Informatics Management student** at Universitas Logistik dan Bisnis Internasional  
 📊 Strong interest in **Data Science, Machine Learning, and Web Development**  
-🏆 **GPA 3.90/4.00** | Certified **Junior Web Developer (BNSP)**  
+🏆 **GPA 3.91/4.00** | Certified **Junior Web Developer (BNSP)**  
 🚀 Experienced in **Data Science virtual internships** with Excellent performance  
 
 I enjoy turning data into insights and building web-based systems that solve real-world problems.
