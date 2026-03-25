@@ -44,11 +44,6 @@
 - 🔹 SIPOSPEDA Inventory System
 - 🔹 Sentiment Analysis (NLP)
 
----
-
-## 👾 Contribution Graph
-
-![snake](https://github.com/RikaProjects/RikaProjects/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
