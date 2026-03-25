@@ -1,16 +1,16 @@
-<h1 align="center">👑 Rika Rostika Afipah</h1>
+<h1 align="center"> Rika Rostika Afipah</h1>
 
 <p align="center">
   <em>⚔️ Architect of Data • Builder of Digital Kingdoms • Future Tech Explorer ⚔️</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Initializing+System...;Loading+Data+Kingdom...;Deploying+AI+Models...;Welcome+to+Rika's+Empire+👑" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Initializing+System...;Loading+Data+Kingdom...;Deploying+AI+Models...;Welcome+to+Rika's" />
 </p>
 
 ---
 
-## 🏰 About The Queen (Me)
+## 🏰 About Me
 
 🎓 Final-year **Informatics Management student**  
 📊 Specialist in **Data Science & Intelligent Systems**  
@@ -21,7 +21,7 @@
 
 ---
 
-## ⚔️ Tech Arsenal
+## Tech Arsenal
 
 **Languages**
 <p>
@@ -64,7 +64,7 @@
 
 ## 💭 Royal Wisdom
 
-> “A kingdom is not built in comfort, but in persistence and vision.” 👑
+> “A kingdom is not built in comfort, but in persistence and vision.” 
 
 ---
 
