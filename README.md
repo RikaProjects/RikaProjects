@@ -49,7 +49,7 @@
 
 ## 👾 Contribution Battlefield
 
-![snake](https://github.com/RikaProjects/RikaProjects/blob/output/github-contribution-grid-snake.svg)
+![snake](![snake](https://github.com/RikaProjects/RikaProjects/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
