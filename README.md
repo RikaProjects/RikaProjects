@@ -14,8 +14,8 @@
 
 - 🎓 Final-year Informatics Management student  
 - 📊 Focused on Data Science & Machine Learning  
-- 🏆 GPA: **3.91 / 4.00**  
-- 💼 Certified Junior Web Developer (BNSP)  
+- 🏆 GPA: **3.93 / 4.00**  
+- 💼 Certified Junior Web Developer (BNSP)  and Sistem Analis (BNSP)
 - ⚡ Interested in solving real-world problems with tech  
 
 ---
